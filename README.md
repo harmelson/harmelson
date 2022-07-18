@@ -6,7 +6,7 @@ const aboutMe = {
   age: '23 years old';
   level: 'Student',
   tools: {
-    Front-end: ['HTML', 'CSS', 'JavaScript', Jest, 'React', 'Redux', 'RTL'],
+    Front-end: ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Redux', 'RTL'],
     Back-end: ['Node.JS', 'Express', 'MySQL', 'Sequelize']
   }
   
