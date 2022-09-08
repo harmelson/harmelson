@@ -3,7 +3,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Gabriel Harmel Camargo',
-  age: '23 years old';
+  age: '24 years old';
   level: 'Student',
   tools: {
     'frontEnd': ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Redux', 'RTL'],
