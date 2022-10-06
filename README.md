@@ -11,7 +11,7 @@ const aboutMe = {
   }
   
 };
-function contatcMe() {
+function contactMe() {
   return 'Linkedin: linkedin.com/in/gabriel-harmel/';
 }
 ```
