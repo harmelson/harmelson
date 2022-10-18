@@ -4,10 +4,10 @@
 const aboutMe = {
   name: 'Gabriel Harmel Camargo',
   age: '24 years old';
-  level: 'Student',
+  level: 'Junior',
   tools: {
-    'frontEnd': ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Redux', 'RTL'],
-    'backEnd': ['Node.JS', 'Express', 'MySQL', 'Sequelize']
+    'frontEnd': ['HTML', 'CSS', 'JavaScript/TypeScript', 'Jest', 'React', 'Redux', 'RTL'],
+    'backEnd': ['Node.JS', 'Express', 'MySQL', 'Sequelize', 'MongoDb', 'C#']
   }
   
 };
