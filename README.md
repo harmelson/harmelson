@@ -7,8 +7,8 @@ const aboutMe = {
   level: 'Junior',
   tools: {
     'frontEnd': ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Redux', 'RTL'],
-    'backEnd': [{ 'TypeScript': ['Node.JS', 'Express', 'Sequelize', 'Chai', 'Sinon'] },
-                { 'C#': ['ASP .NET', 'Entity Framework', 'xUnit'] }],
+    'backEnd': { 'TypeScript': ['Node.JS', 'Express', 'Sequelize', 'Chai', 'Sinon'],
+                 'C#': ['ASP .NET', 'Entity Framework', 'xUnit']},
     'dataBase': ['MySQL', 'SQL Server', 'MongoDb']
   }
   
