@@ -26,7 +26,7 @@ function contactMe() {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmelson&show_icons=true&theme=dracula&locale=en&layout=compact" alt="harmelson" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harmelson&theme=dark" alt="harmelson" /></p>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmelson&label=Profile%20views&color=000000&style=plastic" alt="harmelson" /> </p>
 
 
