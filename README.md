@@ -16,6 +16,7 @@ function contactMe() {
   return {
     linkedin: 'linkedin.com/in/gabriel-harmel/',
     email: 'gabriel.harmel@hotmail.com'
+  }
 }
 ```
 
